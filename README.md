@@ -1,2 +1,4 @@
 # Lab03-DAM
-jorge Herrera y Ana Casas
+Laboratorio Creado por
+- Herrera Jara Jorge Sebastian
+- Casas Carrion Ana Cecilia
